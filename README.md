@@ -1,6 +1,7 @@
 ![logo](banner.png)
-<h1 align="center">Hi 👋, I'm NIMOXOP</h1>
-<h3 align="center">I am pursing BCA DS&AI from BBD University Lucknow</h3>
+<h1 align="center">Hi 👋, I'm Shobhit Prajapati</h1>
+<h3 align="center">I have completed my bachelor degree BCA DS&AI from BBD University Lucknow</h3>
+<h3 align="center">I am persuing MCA AIML from Chandigarh University Unnao Uttar Pradesh </h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
