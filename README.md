@@ -15,7 +15,7 @@
 
 - 💬 Ask me about *Anything*
 
-- 📫 How to reach me *shobhitkumar77947@gmail.com*
+- 📫 How to reach me *shobhitprajapati996@gmail.com*
 
 - ⚡ Fun fact *I THINK I AM FUNNY 😂*
 
